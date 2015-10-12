@@ -1,0 +1,4 @@
+c:\users\msa69\documents\visual studio 2010\Projects\Databaseclass\Databaseclass\bin\Databaseclass.dll
+c:\users\msa69\documents\visual studio 2010\Projects\Databaseclass\Databaseclass\bin\Databaseclass.pdb
+c:\users\msa69\documents\visual studio 2010\Projects\Databaseclass\Databaseclass\obj\Debug\Databaseclass.dll
+c:\users\msa69\documents\visual studio 2010\Projects\Databaseclass\Databaseclass\obj\Debug\Databaseclass.pdb
